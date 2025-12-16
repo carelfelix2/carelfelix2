@@ -2,8 +2,7 @@
 <h3 align="center">Web Developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carelfelix2&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="carelfelix2" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carelfelix2&theme=onedark" alt="carelfeix2" /></a> </p>
+</p>
 
 - 🔭 Founder and Developer of HubPortal
 
