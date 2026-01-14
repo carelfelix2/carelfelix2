@@ -94,8 +94,7 @@
 
 <h3>My GitHub contributions summary</h3>
 
-[![Carel's GitHub stats](https://github-readme-stats.vercel.app/api?username=carelfelix2)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Carel's GitHub stats](https://github-readme-stats.vercel.app/api?username=carelfelix2)](https://github.com/carelfelix2/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=carelfelix2)](https://git.io/streak-stats)
 
 
