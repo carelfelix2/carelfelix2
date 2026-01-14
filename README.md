@@ -94,5 +94,5 @@
 
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=carelfelix2&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=carelfelix2)](https://git.io/streak-stats)
 
