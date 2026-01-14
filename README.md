@@ -94,6 +94,5 @@
 
 <h3>My GitHub contributions summary</h3>
 
-[![Carel's GitHub stats](https://github-readme-stats.vercel.app/api?username=carelfelix2)](https://github.com/carelfelix2/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=carelfelix2&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=carelfelix2" alt="GitHub Streak" /></a>
 
