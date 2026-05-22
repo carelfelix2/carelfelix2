@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carelfelix2&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="carelfelix2" /> </p>
 </p>
 
-- 🔭 Founder and Developer of WABLAST, HubPortal
-
 - 🌱 I’m currently learning **GO, C**
 
 
