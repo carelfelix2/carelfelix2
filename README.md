@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carelfelix2&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="carelfelix2" /> </p>
 </p>
 
-- 🌱 I’m currently learning **GO, C**
+- 🌱 I’m currently learning **React, PHP, All About AI**
 
 
 ## 🌐 Socials:
